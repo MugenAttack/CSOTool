@@ -1,0 +1,9 @@
+c:\users\gaming-pc\documents\visual studio 2015\Projects\CSOTool\CSOTool\bin\Debug\CSOTool.exe.config
+c:\users\gaming-pc\documents\visual studio 2015\Projects\CSOTool\CSOTool\bin\Debug\CSOTool.exe
+c:\users\gaming-pc\documents\visual studio 2015\Projects\CSOTool\CSOTool\bin\Debug\CSOTool.pdb
+c:\users\gaming-pc\documents\visual studio 2015\Projects\CSOTool\CSOTool\obj\Debug\CSOTool.csprojResolveAssemblyReference.cache
+c:\users\gaming-pc\documents\visual studio 2015\Projects\CSOTool\CSOTool\obj\Debug\CSOTool.Form1.resources
+c:\users\gaming-pc\documents\visual studio 2015\Projects\CSOTool\CSOTool\obj\Debug\CSOTool.Properties.Resources.resources
+c:\users\gaming-pc\documents\visual studio 2015\Projects\CSOTool\CSOTool\obj\Debug\CSOTool.csproj.GenerateResource.Cache
+c:\users\gaming-pc\documents\visual studio 2015\Projects\CSOTool\CSOTool\obj\Debug\CSOTool.exe
+c:\users\gaming-pc\documents\visual studio 2015\Projects\CSOTool\CSOTool\obj\Debug\CSOTool.pdb
